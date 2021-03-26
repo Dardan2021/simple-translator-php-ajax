@@ -1,0 +1,160 @@
+*{
+    margin:0;
+    padding:0;
+    list-style:none;
+    font-family:'Lato','sans-serif';
+
+}
+
+header{
+    height: 70px;
+    position:relative;
+    background:rgb(210, 236, 236);
+    border-bottom: 0.2px solid black;
+    width:100%;
+    padding:10px;
+}
+#gotr{
+    font-size:22px;
+    position:absolute;
+    left:80px;
+    bottom:15px;
+
+}
+.go{
+    padding-left:0px;
+    padding-right:0px;font-weight:bold;
+    
+}
+#traduction{
+opacity:0.7;
+}
+.rightbar{
+    float: right;
+    
+}
+#glyrig{
+    font-size:20px;
+    padding:20px 10px;
+    cursor:pointer;
+
+}
+#btn{
+    color:a,antiquewhite;
+    padding: 7px 10px;
+    font-weight:bold;
+    margin-bottom:5px;
+}
+.container{
+    position:relative;
+    top:70px;
+    height:200px;
+    font-size:16;
+    width:1350px;
+
+}
+#tx{
+    height:250px;
+    width:600px;
+    border:0.4px solid grey;
+    border-right:none;
+    box-shadow: 1px 1px #888888;
+    border-left:none;
+
+}
+.toptext{
+    height:50px;
+    padding: 0px 1px;
+    border-bottom: 0.05px solid #b2bec3;
+}
+.toplan{
+
+right:-147px;
+position:relative;
+bottom:5px;
+
+}
+.toplan li{
+    display: inline-block;
+    padding: 9px 12px;
+    cursor:pointer;
+
+}
+.active1{
+color:blue;
+border-bottom:solid 3px blue;
+
+}
+.active2{
+    color:blue;
+    border-bottom:solid 3px blue;
+    
+    }
+.median{
+    position:absolute;
+    top:60px;
+    width:100%;
+
+}
+textarea{
+    resize:none;
+    width:480px;
+    height:140px;
+    
+    font-size:25px;
+    
+
+}
+#bas{
+    position:absolute;
+    bottom:65;
+    text-transform:lowercase;
+}
+#bas1{
+    position:absolute;
+    bottom:0;
+    left:80;
+    text-transform:lowercase;
+}
+#deltex{
+    position:absolute;
+    font-size: 27px;
+    left:430px;
+    top:1px;
+
+}
+#change{
+    position:relative;
+    font-size: 27px;
+  
+    top:3px;
+}
+#butaut{
+    position:relative;
+    left:340px;
+    font-size:10px;
+    cursor:pointer;
+}
+.footer{
+    position:relative;
+    top:150px;
+    
+}
+#strcount{
+    position:absolute;
+    left: 490px;
+    bottom: -9px;
+}
+#tr{
+    height:250px;
+    width:600px;
+    border:0.4px solid grey;
+    border-right:none;
+    box-shadow: 1px 1px #888888;
+    border-left:none;
+
+}
+#iframe{
+    position:relative;
+    right:0px;
+}
